@@ -8,7 +8,7 @@ import java.sql.*;
 public class BakeryGUI extends JFrame {
     private final String url = "jdbc:mysql://localhost:3306/homebakery?useSSL=false&allowPublicKeyRetrieval=true&serverTimezone=UTC";
     private final String user = "root";
-    private final String password = "8zRe2x@@@";
+    private final String password = "*******";
 
     private final Color coffeeBrown = new Color(93, 64, 55);
     private final Color softPink = new Color(255, 209, 220);
